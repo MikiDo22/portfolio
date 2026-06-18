@@ -1,5 +1,5 @@
-#  Developer-portfolio
-Mein pesönliches Portifolio als angehender Fachinformatiker Systemintegration. 
+#  Personlichesportfolio
+Mein pesönliches Portifolio als angehender Fachinformatiker.
 ## Technologien
 - HTML
 - Css
