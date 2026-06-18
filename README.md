@@ -1,5 +1,5 @@
-#  Personlichesportfolio
-Mein pesönliches Portifolio als angehender Fachinformatiker.
+#  Persönliches Portfolio
+Mein persönliches Portfolio als angehender Fachinformatiker.
 ## Technologien
 - HTML
 - Css
@@ -9,7 +9,9 @@ Mein pesönliches Portifolio als angehender Fachinformatiker.
 - Restaurant Menu App
 - Todo App
 - Responsive Landing Page
+- Image Search App
+- Scroll Animation
 
 ## Kontakt 
-GitHub: MikiDo22
+GitHub: MikiDo22 (https://github.com/MikiDo22)
 
